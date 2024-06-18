@@ -8,7 +8,7 @@
 
 </div>
 
-Olá, meu nome é Luiz Felipe, atualmente sou um estudante de programação do 3º semestre na Fatec de São José dos Campos no curso de Desenvolvimento de Software Multiplataforma. Esse é meu portfólio com meus principais projetos.
+Olá, meu nome é **Luiz Felipe**, atualmente sou um estudante de programação do **3º semestre** na Fatec de São José dos Campos no curso de Desenvolvimento de Software Multiplataforma. Esse é meu portfólio com meus principais projetos.
 
 <h2 id="api-20231">API 2023.1</h2>
 
@@ -27,12 +27,12 @@ Projeto consiste em um site focado em dados relacionados a Covid-19, seus efeito
 ### 🛠️ Tecnologias Utilizadas
 
 <div align="left">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=F46A67"/>
-    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=F46A67"/>
-    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&color=F46A67"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=F46A67"/>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&color=F46A67"/>
+    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=F46A67"/>
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&color=F46A67"/>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&color=F46A67"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=F46A67"/>
 </div>
 
 ### 👨‍💻 Contribuição Pessoal
@@ -85,13 +85,12 @@ O sistema desenvolvido, chamado CallNet, é focado em fornecer auxílio aos prob
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/Figma-217346?style=for-the-badge&logo=figma&logoColor=white&color=93B6E4"/>
-<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=93B6E4"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=93B6E4"/>
+<img src="https://img.shields.io/badge/TypeORM-007ACC?style=for-the-badge&logoColor=white&color=93B6E4"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=93B6E4"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&color=93B6E4"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=93B6E4"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=93B6E4"/>
-<img src="https://img.shields.io/badge/TypeORM-007ACC?style=for-the-badge&logoColor=white&color=93B6E4"/>
+<img src="https://img.shields.io/badge/Figma-217346?style=for-the-badge&logo=figma&logoColor=white&color=93B6E4"/>
 
 </div>
 
@@ -143,11 +142,11 @@ O objetivo do projeto é o desenvolvimento de uma solução para o gerenciamento
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/Figma-217346?style=for-the-badge&logo=figma&logoColor=white&color=00A0B9"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=00A0B9"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=00A0B9"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&color=00A0B9"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=00A0B9"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=00A0B9"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&color=00A0B9"/>
+<img src="https://img.shields.io/badge/Figma-217346?style=for-the-badge&logo=figma&logoColor=white&color=00A0B9"/>
     
 </div>
 
