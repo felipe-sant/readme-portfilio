@@ -110,9 +110,21 @@ O sistema desenvolvido, chamado CallNet, é focado em fornecer auxílio aos prob
 
 Neste projeto, fui responsável pelos relatórios, aba de problemas comuns, responsividade e estilização das páginas. Minhas principais tarefas foram:
 
-- Criação de relatórios com base em dados das chamadas utilizando filtros.
-- Representação dos dados das chamadas por meio de gráficos.
-- Responsividade e estilização de páginas.
+- <a href="#api2-filtros">Criação de relatórios com base em dados das chamadas utilizando filtros.</a>
+- <a href="#api2-graficos">Representação dos dados das chamadas por meio de gráficos.</a>
+- <a href="#api2-responsividade">Responsividade e estilização de páginas.</a>
+
+<h4 id="api2-filtros">Criação de relatórios com base em dados das chamadas utilizando filtros.</h4>
+
+Uma das minhas principais atividades nesse projeto foi a criação de filtros avançados para que o administrador pudesse visualizar relatórios detalhados sobre os chamados. Esses filtros incluíram opções como "Número de chamadas por prioridade", "Número de chamadas por tema", "Número de chamadas por turno", "Média de tempo por prioridade", "Média de tempo por tema" e "Média de tempo total de conclusão de chamadas". Além disso, os filtros permitem pesquisas por datas específicas, utilizando os campos "data início" e "data final", proporcionando ao administrador uma ferramenta poderosa para analisar e gerenciar os chamados de maneira mais eficiente e precisa.
+
+<h4 id="api2-graficos">Representação dos dados das chamadas por meio de gráficos.</h4>
+
+Com a utilização desses filtros, os dados foram apresentados ao administrador por meio de gráficos em colunas, que exibiam as informações de acordo com o filtro escolhido. Para essa visualização, utilizamos o componente "react-google-charts", que permitiu criar gráficos dinâmicos e interativos, facilitando a análise e interpretação dos dados de maneira visualmente intuitiva e eficiente.
+
+<h4 id="api2-responsividade">Responsividade e estilização de páginas.</h4>
+
+Nesse projeto, também fui responsável pela responsividade, utilizando mais JavaScript para renderização condicional, além de aprimorar a organização do CSS com a utilização de divs com display flex. Além disso, criei componentes básicos essenciais para o projeto, como barras de navegação, home, footer, e outros. Esta abordagem garantiu uma interface de usuário mais adaptável e eficiente, proporcionando uma experiência de navegação otimizada em diversos dispositivos e tamanhos de tela.
 
 ### 📚 Aprendizado e Conhecimentos
 
