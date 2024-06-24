@@ -43,7 +43,7 @@ Neste projeto, fui responsável pela estilização e responsividade do site. As 
 - <a href="#api1-pesquisa-dados">Pesquisa de dados.</a>
 - <a href="#api1-responsividade">Otimização da responsividade da aplicação para dispositivos móveis.</a>
 
-<h4 id="api1-design">Design do site.</h4>
+<h4 id="api1-design">Design do site</h4>
 
 Participei ativamente na concepção e desenvolvimento do site. Contribuí para a projeção do layout, a criação da estrutura com barras de navegação intuitivas e a definição dos estilos visuais das páginas, garantindo uma experiência de usuário coesa e agradável.
 
@@ -51,7 +51,7 @@ Participei ativamente na concepção e desenvolvimento do site. Contribuí para 
 
 A pesquisa de dados envolve estudos sobre a COVID-19 longa. Fiquei responsável por investigar aumentos significativos nas vendas de medicamentos relacionados a doenças respiratórias. Descobri que houve um aumento significativo nas vendas desses remédios, além da criação de novos medicamentos para o tratamento da COVID-19. Os resultados serão apresentados por meio de gráficos.
 
-<h4 id="api1-responsividade">Otimização da responsividade da aplicação para dispositivos móveis.</h4>
+<h4 id="api1-responsividade">Otimização da responsividade da aplicação para dispositivos móveis</h4>
 
 Fiquei responsável por garantir a responsividade do site para dispositivos com telas menores. A principal abordagem que utilizei foi o uso da propriedade max-width do CSS, permitindo a adaptação do estilo de acordo com o tamanho da tela do usuário. Para funcionalidades mais complexas, como a criação do menu hambúrguer para dispositivos móveis, utilizei JavaScript. Dessa forma, assegurei que o site oferecesse uma experiência de navegação fluida e otimizada em qualquer dispositivo.
 
@@ -114,15 +114,15 @@ Neste projeto, fui responsável pelos relatórios, aba de problemas comuns, resp
 - <a href="#api2-graficos">Representação dos dados das chamadas por meio de gráficos.</a>
 - <a href="#api2-responsividade">Responsividade e estilização de páginas.</a>
 
-<h4 id="api2-filtros">Criação de relatórios com base em dados das chamadas utilizando filtros.</h4>
+<h4 id="api2-filtros">Criação de relatórios com base em dados das chamadas utilizando filtros</h4>
 
 Uma das minhas principais atividades nesse projeto foi a criação de filtros avançados para que o administrador pudesse visualizar relatórios detalhados sobre os chamados. Esses filtros incluíram opções como "Número de chamadas por prioridade", "Número de chamadas por tema", "Número de chamadas por turno", "Média de tempo por prioridade", "Média de tempo por tema" e "Média de tempo total de conclusão de chamadas". Além disso, os filtros permitem pesquisas por datas específicas, utilizando os campos "data início" e "data final", proporcionando ao administrador uma ferramenta poderosa para analisar e gerenciar os chamados de maneira mais eficiente e precisa.
 
-<h4 id="api2-graficos">Representação dos dados das chamadas por meio de gráficos.</h4>
+<h4 id="api2-graficos">Representação dos dados das chamadas por meio de gráficos</h4>
 
 Com a utilização desses filtros, os dados foram apresentados ao administrador por meio de gráficos em colunas, que exibiam as informações de acordo com o filtro escolhido. Para essa visualização, utilizamos o componente "react-google-charts", que permitiu criar gráficos dinâmicos e interativos, facilitando a análise e interpretação dos dados de maneira visualmente intuitiva e eficiente.
 
-<h4 id="api2-responsividade">Responsividade e estilização de páginas.</h4>
+<h4 id="api2-responsividade">Responsividade e estilização de páginas</h4>
 
 Nesse projeto, também fui responsável pela responsividade, utilizando mais JavaScript para renderização condicional, além de aprimorar a organização do CSS com a utilização de divs com display flex. Além disso, criei componentes básicos essenciais para o projeto, como barras de navegação, home, footer, e outros. Esta abordagem garantiu uma interface de usuário mais adaptável e eficiente, proporcionando uma experiência de navegação otimizada em diversos dispositivos e tamanhos de tela.
 
@@ -178,9 +178,21 @@ O objetivo do projeto é o desenvolvimento de uma solução para o gerenciamento
 
 Neste projeto, fui responsável pela parte de listagem e filtro dos ativos, manutenções e usuários. Minhas principais tarefas foram:
 
-- Página de listagem com detalhes dos ativos, manutenções e usuários.
-- Responsividade e estilização de páginas.
-- Sistema de notificações com alertas para informações importantes para o cliente.
+- <a href="api3-listagem">Página de listagem com detalhes dos ativos, manutenções e usuários.</a>
+- <a href="api3-responsividade">Responsividade e estilização de páginas.</a>
+- <a href="api3-notificacoes">Sistema de notificações.</a>
+
+<h4 href="api3-listagem">Página de listagem com detalhes dos ativos, manutenções e usuários</h4>
+
+Neste projeto, fui responsável pela implementação da listagem de ativos, manutenções e usuários. Em cada uma dessas páginas, você pode visualizar uma lista completa dos respectivos itens, com a opção de aplicar filtros conforme necessário. Ao clicar em um item, é possível ver informações adicionais exibidas em um modal, onde também é possível editar ou excluir o item. Esta funcionalidade proporciona uma maneira eficiente e intuitiva de gerenciar os dados diretamente na interface, melhorando significativamente a usabilidade e a gestão dos recursos do sistema.
+
+<h4 href="api3-responsividade">Responsividade e estilização de páginas</h4>
+
+Fiquei responsável pela implementação da responsividade, utilizando ainda mais JavaScript para renderização condicional. Houve uma grande mudança em comparação com a API 2023.2, pois muitos elementos que podiam ser exibidos em telas maiores precisaram ser reorganizados para telas menores. Por exemplo, os filtros que aparecem na lateral esquerda da tela em desktops foram adaptados para dispositivos móveis, onde são exibidos em um modal ao clicar no botão "Filtros". Além disso, criei vários componentes reutilizáveis que foram utilizados em todo o site, garantindo uma interface consistente e adaptável para diferentes dispositivos.
+
+<h4 href="api3-notificacoes">Sistema de notificações</h4>
+
+Uma das minhas principais atividades foi desenvolver um sistema de notificações para os usuários, que exibe avisos com base em gatilhos específicos. Por exemplo, foram criados gatilhos para notificar sobre "Ativos próximos da expiração", "Ativos expirados", "Manutenções próximas de ocorrer", "Início de manutenção", "Manutenção próxima da conclusão" e "Manutenção concluída". Além disso, implementei um sistema de histórico de notificações na barra de navegação, permitindo aos usuários revisar as notificações anteriores. Essas funcionalidades melhoraram a comunicação e a gestão de informações importantes dentro do sistema de forma eficiente e organizada.
 
 ### 📚 Aprendizado e Conhecimentos
 
