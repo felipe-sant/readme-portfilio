@@ -39,9 +39,21 @@ Projeto consiste em um site focado em dados relacionados a Covid-19, seus efeito
 
 Neste projeto, fui responsável pela estilização e responsividade do site. As tarefas sob minha responsabilidade incluíram:
 
-- Pesquisa de dados.
-- Criação de gráficos para apresentação dos dados.
-- Otimização da responsividade da aplicação para dispositivos móveis.
+- <a href="#api1-design">Design do site.</a>
+- <a href="#api1-pesquisa-dados">Pesquisa de dados.</a>
+- <a href="#api1-responsividade">Otimização da responsividade da aplicação para dispositivos móveis.</a>
+
+<h4 id="api1-design">Design do site.</h4>
+
+Participei ativamente na concepção e desenvolvimento do site. Contribuí para a projeção do layout, a criação da estrutura com barras de navegação intuitivas e a definição dos estilos visuais das páginas, garantindo uma experiência de usuário coesa e agradável.
+
+<h4 id="api1-pesquisa-dados">Pesquisa de Dados</h4>
+
+A pesquisa de dados envolve estudos sobre a COVID-19 longa. Fiquei responsável por investigar aumentos significativos nas vendas de medicamentos relacionados a doenças respiratórias. Descobri que houve um aumento significativo nas vendas desses remédios, além da criação de novos medicamentos para o tratamento da COVID-19. Os resultados serão apresentados por meio de gráficos.
+
+<h4 id="api1-responsividade">Otimização da responsividade da aplicação para dispositivos móveis.</h4>
+
+Fiquei responsável por garantir a responsividade do site para dispositivos com telas menores. A principal abordagem que utilizei foi o uso da propriedade max-width do CSS, permitindo a adaptação do estilo de acordo com o tamanho da tela do usuário. Para funcionalidades mais complexas, como a criação do menu hambúrguer para dispositivos móveis, utilizei JavaScript. Dessa forma, assegurei que o site oferecesse uma experiência de navegação fluida e otimizada em qualquer dispositivo.
 
 ### 📚 Aprendizado e Conhecimentos
 
