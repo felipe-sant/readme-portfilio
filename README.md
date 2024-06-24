@@ -182,15 +182,15 @@ Neste projeto, fui responsável pela parte de listagem e filtro dos ativos, manu
 - <a href="#api3-responsividade">Responsividade e estilização de páginas.</a>
 - <a href="#api3-notificacoes">Sistema de notificações.</a>
 
-<h4 href="api3-listagem">Página de listagem com detalhes dos ativos, manutenções e usuários</h4>
+<h4 id="api3-listagem">Página de listagem com detalhes dos ativos, manutenções e usuários</h4>
 
 Neste projeto, fui responsável pela implementação da listagem de ativos, manutenções e usuários. Em cada uma dessas páginas, você pode visualizar uma lista completa dos respectivos itens, com a opção de aplicar filtros conforme necessário. Ao clicar em um item, é possível ver informações adicionais exibidas em um modal, onde também é possível editar ou excluir o item. Esta funcionalidade proporciona uma maneira eficiente e intuitiva de gerenciar os dados diretamente na interface, melhorando significativamente a usabilidade e a gestão dos recursos do sistema.
 
-<h4 href="api3-responsividade">Responsividade e estilização de páginas</h4>
+<h4 id="api3-responsividade">Responsividade e estilização de páginas</h4>
 
 Fiquei responsável pela implementação da responsividade, utilizando ainda mais JavaScript para renderização condicional. Houve uma grande mudança em comparação com a API 2023.2, pois muitos elementos que podiam ser exibidos em telas maiores precisaram ser reorganizados para telas menores. Por exemplo, os filtros que aparecem na lateral esquerda da tela em desktops foram adaptados para dispositivos móveis, onde são exibidos em um modal ao clicar no botão "Filtros". Além disso, criei vários componentes reutilizáveis que foram utilizados em todo o site, garantindo uma interface consistente e adaptável para diferentes dispositivos.
 
-<h4 href="api3-notificacoes">Sistema de notificações</h4>
+<h4 id="api3-notificacoes">Sistema de notificações</h4>
 
 Uma das minhas principais atividades foi desenvolver um sistema de notificações para os usuários, que exibe avisos com base em gatilhos específicos. Por exemplo, foram criados gatilhos para notificar sobre "Ativos próximos da expiração", "Ativos expirados", "Manutenções próximas de ocorrer", "Início de manutenção", "Manutenção próxima da conclusão" e "Manutenção concluída". Além disso, implementei um sistema de histórico de notificações na barra de navegação, permitindo aos usuários revisar as notificações anteriores. Essas funcionalidades melhoraram a comunicação e a gestão de informações importantes dentro do sistema de forma eficiente e organizada.
 
