@@ -178,9 +178,9 @@ O objetivo do projeto é o desenvolvimento de uma solução para o gerenciamento
 
 Neste projeto, fui responsável pela parte de listagem e filtro dos ativos, manutenções e usuários. Minhas principais tarefas foram:
 
-- <a href="api3-listagem">Página de listagem com detalhes dos ativos, manutenções e usuários.</a>
-- <a href="api3-responsividade">Responsividade e estilização de páginas.</a>
-- <a href="api3-notificacoes">Sistema de notificações.</a>
+- <a href="#api3-listagem">Página de listagem com detalhes dos ativos, manutenções e usuários.</a>
+- <a href="#api3-responsividade">Responsividade e estilização de páginas.</a>
+- <a href="#api3-notificacoes">Sistema de notificações.</a>
 
 <h4 href="api3-listagem">Página de listagem com detalhes dos ativos, manutenções e usuários</h4>
 
