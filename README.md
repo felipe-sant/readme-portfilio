@@ -37,7 +37,11 @@ Projeto consiste em um site focado em dados relacionados a Covid-19, seus efeito
 
 ### 👨‍💻 Contribuição Pessoal
 
-Neste projeto, fui responsável pela estilização e responsividade do site. As tarefas sob minha responsabilidade incluíram:
+Neste primeiro API, enfrentei certa dificuldade com os protocolos de Scrum, pois ainda não tinha muita familiaridade com essa metodologia. Houve, então, uma pequena demora para realmente iniciar o desenvolvimento ativo do projeto. No entanto, essa fase inicial me proporcionou um aprendizado valioso sobre a importância da organização e do planejamento em equipe.
+
+Na primeira sprint, entregamos o wireframe do projeto, no qual tive grande participação no desenvolvimento, devido à minha facilidade com design. Trabalhei intensamente na criação de uma interface intuitiva e agradável, garantindo que todas as funcionalidades estivessem bem representadas visualmente.
+
+Nas sprints seguintes, meu foco se dividiu entre atividades de pesquisa e desenvolvimento do front-end do projeto. Especificamente, fui responsável pela estilização e responsividade do site, garantindo que ele fosse visualmente atraente e funcional em diferentes dispositivos e tamanhos de tela. Minhas principais tarefas incluíram:
 
 - <a href="#api1-design">Design do site.</a>
 - <a href="#api1-pesquisa-dados">Pesquisa de dados.</a>
@@ -108,7 +112,11 @@ O sistema desenvolvido, chamado CallNet, é focado em fornecer auxílio aos prob
 
 ### 👨‍💻 Contribuição Pessoal
 
-Neste projeto, fui responsável pelos relatórios, aba de problemas comuns, responsividade e estilização das páginas. Minhas principais tarefas foram:
+No segundo API, comecei a ter mais facilidade em seguir os protocolos de Scrum. As reuniões diárias para discutir o andamento do projeto se tornaram parte integrante da minha rotina, ajudando a manter o time alinhado e a identificar rapidamente quaisquer obstáculos.
+
+Este projeto foi desenvolvido com uma nova tecnologia para mim: React com TypeScript. Inicialmente, enfrentei algumas dificuldades, pois ainda estava aprendendo a usar essas ferramentas. No entanto, com o passar das semanas, fui adquirindo mais familiaridade e confiança, o que me permitiu desenvolver o API com mais facilidade e eficiência.
+
+Minhas principais tarefas neste projeto incluíram:
 
 - <a href="#api2-filtros">Criação de relatórios com base em dados das chamadas utilizando filtros.</a>
 - <a href="#api2-graficos">Representação dos dados das chamadas por meio de gráficos.</a>
@@ -176,7 +184,11 @@ O objetivo do projeto é o desenvolvimento de uma solução para o gerenciamento
 
 ### 👨‍💻 Contribuição Pessoal
 
-Neste projeto, fui responsável pela parte de listagem e filtro dos ativos, manutenções e usuários. Minhas principais tarefas foram:
+No terceiro API, houve uma notável melhora em relação aos projetos anteriores. Logo no primeiro dia de kickoff, conseguimos discutir o tema e começar a organizar o projeto para entrar rapidamente na fase de desenvolvimento. A experiência adquirida nos APIs anteriores facilitou a adaptação às práticas de Scrum e melhorou a dinâmica das reuniões diárias, tornando o processo mais eficiente e colaborativo.
+
+No entanto, um desafio similar ao API passado surgiu: a implementação de uma nova tecnologia, o Java. Assim como no projeto anterior, encontrei dificuldades iniciais devido à minha inexperiência com a linguagem. No entanto, com dedicação e estudo contínuo, fui entendendo e aprendendo a usar Java ao longo das semanas, o que me permitiu contribuir significativamente para o projeto.
+
+Minhas principais atividades neste API foram:
 
 - <a href="#api3-listagem">Página de listagem com detalhes dos ativos, manutenções e usuários.</a>
 - <a href="#api3-responsividade">Responsividade e estilização de páginas.</a>
